@@ -1,0 +1,20 @@
+# Godot generated files
+.godot/
+
+# Exported builds
+*.exe
+*.pck
+*.zip
+*.apk
+*.aab
+*.dmg
+*.x86_64
+*.app/
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Nested local clone
+INDUSTRIAL FACTORY/
